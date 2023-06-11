@@ -1,5 +1,2 @@
 #!/bin/bash
-file="hello"
-permission=$(stat -c "%a" "$file")
-new_permission=$((permission | 0100))
-chmod "$new_permission" "$file"
+chmod u+x hello

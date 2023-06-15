@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/A/Z/g; s/c/e/g' input_file.txt
+sed -e 's/A/Z/g' -e 's/c/e/g'

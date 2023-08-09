@@ -1,0 +1,2 @@
+#!/bin/bash
+i=1; while read line; do [ $((i%2)) -eq 1 ] && echo "$line"; ((i++)); done

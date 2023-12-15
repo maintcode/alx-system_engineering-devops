@@ -12,18 +12,18 @@ Read or watch:
 * [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 ### man or help:
 
-`chmod`
-`sudo`
-`su`
-`chown`
-`chgrp`
-`id`
-`groups`
-`whoami`
-`adduser`
-useradd
-addgroup
-Learning Objectives
+- `chmod`
+- `sudo`
+- `su`
+- `chown`
+- `chgrp`
+- `id`
+- `groups`
+- `whoami`
+- `adduser`
+- useradd
+- addgroup
+### Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 Permissions

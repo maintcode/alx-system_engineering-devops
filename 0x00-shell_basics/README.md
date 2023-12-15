@@ -23,10 +23,10 @@ Read or watch:
 * [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 ### man or help:
 
-* 'cd'
-* 'ls'
-* 'pwd'
-* 'less'
+* `cd`
+* `ls`
+* `pwd`
+* `less`
 file
 ln
 cp
